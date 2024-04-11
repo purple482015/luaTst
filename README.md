@@ -4,4 +4,5 @@ This is the repository of Lua development code, as seen by the Lua team. It cont
 
 Please **do not** send pull requests. To report issues, post a message to the [Lua mailing list](https://www.lua.org/lua-l.html).
 
-Download official Lua releases from [Lua.org](https://www.lua.org/download.html).
+Download official Lua releases from [Lua.org](https://www.lua.org/download.html). not from me from lua please do not do anything to me
+
